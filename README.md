@@ -30,6 +30,7 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |   250 |  100 | Automatsäkring (Dvärgbrytare)
 ![missing thumb](https://chille.github.io/electricalsymbols/Dot.svg)                           | Dot.png                           |   100 |  100 | Punkt för att förbinda ledningar
 ![missing thumb](https://chille.github.io/electricalsymbols/Not_connected.svg)                 | Not_connected.svg                 |   100 |  100 | Ej ansluten ledare (Kryss)
+![missing thumb](https://chille.github.io/electricalsymbols/Terminal.svg)                      | Terminal.svg                      |    50 |   50 | Plint / skruvanslutning
 ![missing thumb](https://chille.github.io/electricalsymbols/PE.svg)                            | PE.svg                            |   100 |  100 | Skyddsjord
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_pnp_no.svg)    | Proximity_inductive_pnp_no.svg    |   400 |  300 | Induktiv givare (PNP, NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_pnp_nc.svg)    | Proximity_inductive_pnp_nc.svg    |   400 |  300 | Induktiv givare (PNP, NC)
