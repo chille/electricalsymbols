@@ -38,15 +38,15 @@ Symboler todo
 =============
 Lista över symboler som håller på ritas eller är i behov av ändringar
 
-Bild                                                                                                   | Filnamn                           | Bredd | Höjd | Beskrivning
--------------------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Switch_key_no.svg)                 | Switch_key_no.svg                 |   200 |  150 | Rita: Nyckelströmställare (NO)
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Switch_key_nc.svg)                 | Switch_key_nc.svg                 |   200 |  150 | Rita: Nyckelströmställare (NC)
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Motor_3ph.svg)                     | Motor_3ph.svg                     |   400 |  300 | Rita: Rita
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Transformer_1ph.svg)               | Transformer_1ph.svg               |   350 |  350 | Rita: Vanlig transformator
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/A4.svg)                            | A4.svg                            |   xxx |  xxx | Rita: Dokumentmall A4
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Motor_1ph.svg)                     | Motor_1ph.svg                     |       |      | Todo: Förminska?
-![missing thumb](https://chille.github.io/electricalsymbols/Symbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |       |      | Todo: Skulle behöva snyggas till så de passar att stacka på varandra, eller rita en ny symbol för 2-pol / 3-pol
+Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
+-----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_no.svg)                 | Switch_key_no.svg                 |   200 |  150 | Rita: Nyckelströmställare (NO)
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_nc.svg)                 | Switch_key_nc.svg                 |   200 |  150 | Rita: Nyckelströmställare (NC)
+![missing thumb](https://chille.github.io/electricalsymbols/Motor_3ph.svg)                     | Motor_3ph.svg                     |   400 |  300 | Rita: Rita
+![missing thumb](https://chille.github.io/electricalsymbols/Transformer_1ph.svg)               | Transformer_1ph.svg               |   350 |  350 | Rita: Vanlig transformator
+![missing thumb](https://chille.github.io/electricalsymbols/A4.svg)                            | A4.svg                            |   xxx |  xxx | Rita: Dokumentmall A4
+![missing thumb](https://chille.github.io/electricalsymbols/Motor_1ph.svg)                     | Motor_1ph.svg                     |       |      | Todo: Förminska?
+![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |       |      | Todo: Skulle behöva snyggas till så de passar att stacka på varandra, eller rita en ny symbol för 2-pol / 3-pol
 
 
 
