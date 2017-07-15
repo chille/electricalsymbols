@@ -15,12 +15,12 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_no.svg)                     | Switch_no.svg                     |   200 |  100 | Relä (NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_nc.svg)                     | Switch_nc.svg                     |   200 |  100 | Relä (NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_contactor.svg)              | Switch_contactor.svg              |   200 |  100 | Kontaktor (NO)
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_momentary_no.svg)  | Switch_mushroom_momentary_no.svg  |   200 |  150 | Svampströmbrytare momentan (NO)
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_momentary_nc.svg)  | Switch_mushroom_momentary_nc.svg  |   200 |  150 | Svampströmbrytare momentan (NC)
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_latch_no.svg)      | Switch_mushroom_latch_no.svg      |   200 |  150 | Svampströmbrytare självlåsande
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_latch_nc.svg)      | Switch_mushroom_latch_nc.svg      |   200 |  150 | Svampströmbrytare självlåsande
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_twistlatch_no.svg) | Switch_mushroom_twistlatch_no.svg |   200 |  200 | Svampströmbrytare självlåsande med vridåterställning
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_twistlatch_nc.svg) | Switch_mushroom_twistlatch_nc.svg |   200 |  200 | Svampströmbrytare självlåsande med vridåterställning
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_momentary_no.svg)  | Switch_mushroom_momentary_no.svg  |   200 |  150 | Svamptrycke momentan (NO)
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_momentary_nc.svg)  | Switch_mushroom_momentary_nc.svg  |   200 |  150 | Svamptrycke momentan (NC)
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_latch_no.svg)      | Switch_mushroom_latch_no.svg      |   200 |  150 | Svamptrycke självlåsande
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_latch_nc.svg)      | Switch_mushroom_latch_nc.svg      |   200 |  150 | Svamptrycke självlåsande
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_twistlatch_no.svg) | Switch_mushroom_twistlatch_no.svg |   200 |  200 | Svamptrycke självlåsande med vridåterställning
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_mushroom_twistlatch_nc.svg) | Switch_mushroom_twistlatch_nc.svg |   200 |  200 | Svamptrycke självlåsande med vridåterställning
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_push_no.svg)                | Switch_push_no.svg                |   200 |  150 | Tryckknapp återfjädrande (NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_push_nc.svg)                | Switch_push_nc.svg                |   200 |  150 | Tryckknapp återfjädrande (NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_rot_no.svg)                 | Switch_rot_no.svg                 |   200 |  150 | Vridströmställare (NO)
