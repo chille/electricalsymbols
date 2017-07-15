@@ -6,7 +6,7 @@ Projektet går ut på att skapa ett bibliotek över de vanligast symbolerna som 
 
 Symboler
 ========
-Nedan följer en lista över samtliga 21st symboler som finns i biblioteket.
+Nedan följer en lista över samtliga 25st symboler som finns i biblioteket.
 
 Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
 -----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
@@ -31,7 +31,10 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Dot.svg)                           | Dot.png                           |   100 |  100 | Punkt för att förbinda ledningar
 ![missing thumb](https://chille.github.io/electricalsymbols/Not_connected.svg)                 | Not_connected.svg                 |   100 |  100 | Ej ansluten ledare (Kryss)
 ![missing thumb](https://chille.github.io/electricalsymbols/PE.svg)                            | PE.svg                            |   100 |  100 | Skyddsjord
-
+![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_pnp_no.svg)    | Proximity_inductive_pnp_no.svg    |   400 |  300 | Induktiv givare (PNP, NO)
+![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_pnp_nc.svg)    | Proximity_inductive_pnp_nc.svg    |   400 |  300 | Induktiv givare (PNP, NC)
+![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_npn_no.svg)    | Proximity_inductive_npn_no.svg    |   400 |  300 | Induktiv givare (NPN, NO)
+![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_npn_no.svg)    | Proximity_inductive_npn_nc.svg    |   400 |  300 | Induktiv givare (NPN, NC)
 
 
 Symboler todo
