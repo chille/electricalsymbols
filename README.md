@@ -11,6 +11,7 @@ Nedan följer en lista över samtliga 25st symboler som finns i biblioteket.
 Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
 -----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
 ![missing thumb](https://chille.github.io/electricalsymbols/Motor_1ph.svg)                     | Motor_1ph.svg                     |   400 |  300 | Motor 1-fas
+![missing thumb](https://chille.github.io/electricalsymbols/Motor_3ph.svg)                     | Motor_3ph.svg                     |   400 |  300 | Motor 3-fas
 ![missing thumb](https://chille.github.io/electricalsymbols/Relay_coil.svg)                    | Relay_coil.svg                    |   200 |  300 | Spole till relä / kontaktor
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_no.svg)                     | Switch_no.svg                     |   200 |  100 | Relä (NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_nc.svg)                     | Switch_nc.svg                     |   200 |  100 | Relä (NC)
@@ -25,6 +26,8 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_push_nc.svg)                | Switch_push_nc.svg                |   200 |  150 | Tryckknapp återfjädrande (NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_rot_no.svg)                 | Switch_rot_no.svg                 |   200 |  150 | Vridströmställare (NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_rot_nc.svg)                 | Switch_rot_nc.svg                 |   200 |  150 | Vridströmställare (NC)
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_no.svg)                 | Switch_key_no.svg                 |   200 |  150 | Nyckelströmställare (NO)
+![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_nc.svg)                 | Switch_key_nc.svg                 |   200 |  150 | Nyckelströmställare (NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Lightbulb.svg)                     | Lightbulb.svg                     |   200 |  200 | Glödlampa
 ![missing thumb](https://chille.github.io/electricalsymbols/Transformer_3ph_delta_star.svg)    | Transformer_3ph_delta_star.svg    |   350 |  350 | 3-fas transformator delta/Y-kopplad
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |   250 |  100 | Automatsäkring (Dvärgbrytare)
@@ -38,18 +41,15 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_npn_no.svg)    | Proximity_inductive_npn_nc.svg    |   400 |  300 | Induktiv givare (NPN, NC)
 
 
+
 Symboler todo
 =============
 Lista över symboler som håller på ritas eller är i behov av ändringar
 
 Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
 -----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_no.svg)                 | Switch_key_no.svg                 |   200 |  150 | Rita: Nyckelströmställare (NO)
-![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_nc.svg)                 | Switch_key_nc.svg                 |   200 |  150 | Rita: Nyckelströmställare (NC)
-![missing thumb](https://chille.github.io/electricalsymbols/Motor_3ph.svg)                     | Motor_3ph.svg                     |   400 |  300 | Rita: Rita
 ![missing thumb](https://chille.github.io/electricalsymbols/Transformer_1ph.svg)               | Transformer_1ph.svg               |   350 |  350 | Rita: Vanlig transformator
 ![missing thumb](https://chille.github.io/electricalsymbols/A4.svg)                            | A4.svg                            |   xxx |  xxx | Rita: Dokumentmall A4
-![missing thumb](https://chille.github.io/electricalsymbols/Motor_1ph.svg)                     | Motor_1ph.svg                     |       |      | Todo: Förminska?
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |       |      | Todo: Skulle behöva snyggas till så de passar att stacka på varandra, eller rita en ny symbol för 2-pol / 3-pol
 
 

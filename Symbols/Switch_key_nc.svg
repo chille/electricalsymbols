@@ -31,9 +31,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="2222"
+     inkscape:window-width="1447"
      inkscape:window-height="2120"
-     inkscape:window-x="0"
+     inkscape:window-x="2391"
      inkscape:window-y="19"
      inkscape:window-maximized="0"
      units="px"
@@ -93,14 +93,26 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.00000107, 6.00000054;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 100.00002,1017.3622 0,-89.99997"
+       d="m 100.00002,1017.3622 -1e-5,-69.99999"
        id="path5917"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.999997,952.36222 1e-5,-24.99999 50.000013,0 -2e-5,24.99999"
-       id="path5403"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8209"
+       sodipodi:type="arc"
+       sodipodi:cx="80.232552"
+       sodipodi:cy="937.36304"
+       sodipodi:rx="15.232548"
+       sodipodi:ry="15.000826"
+       sodipodi:start="0.43633231"
+       sodipodi:end="5.846853"
+       sodipodi:open="true"
+       d="m 94.037928,943.70266 a 15.232548,15.000826 0 0 1 -17.102303,8.30562 15.232548,15.000826 0 0 1 -11.935621,-14.64524 15.232548,15.000826 0 0 1 11.935621,-14.64525 15.232548,15.000826 0 0 1 17.102303,8.30562" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.853432,931.85714 42.146578,-9.49493 0,30 -42.020309,-9.24239"
+       id="path8211"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>
