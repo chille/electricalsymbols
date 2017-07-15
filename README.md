@@ -28,7 +28,7 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Lightbulb.svg)                     | Lightbulb.svg                     |   200 |  200 | Glödlampa
 ![missing thumb](https://chille.github.io/electricalsymbols/Transformer_3ph_delta_star.svg)    | Transformer_3ph_delta_star.svg    |   350 |  350 | 3-fas transformator delta/Y-kopplad
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |   250 |  100 | Automatsäkring (Dvärgbrytare)
-![missing thumb](https://chille.github.io/electricalsymbols/Dot.png)                           | Dot.png                           |   100 |  100 | Punkt för att förbinda ledningar
+![missing thumb](https://chille.github.io/electricalsymbols/Dot.svg)                           | Dot.png                           |   100 |  100 | Punkt för att förbinda ledningar
 ![missing thumb](https://chille.github.io/electricalsymbols/Not_connected.svg)                 | Not_connected.svg                 |   100 |  100 | Ej ansluten ledare (Kryss)
 ![missing thumb](https://chille.github.io/electricalsymbols/PE.svg)                            | PE.svg                            |   100 |  100 | Skyddsjord
 
