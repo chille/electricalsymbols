@@ -1,12 +1,12 @@
 Om projektet
 ============
-Projektet går ut på att skapa ett bibliotek över de vanligast symbolerna som krävs för att rita elscheman. Målet är att i största möjliga mån vara kompatibel med IEC 60617.
+Projektet går ut på att skapa ett bibliotek över de vanligast symbolerna som krävs för att rita kretsscheman. Målet är att i största möjliga mån vara kompatibel med IEC 60617.
 
 
 
 Symboler
 ========
-Nedan följer en lista över samtliga 25st symboler som finns i biblioteket.
+Nedan följer en lista över samtliga 32st symboler som finns i biblioteket.
 
 Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
 -----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
@@ -29,9 +29,10 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_no.svg)                 | Switch_key_no.svg                 |   200 |  150 | Nyckelströmställare (NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Switch_key_nc.svg)                 | Switch_key_nc.svg                 |   200 |  150 | Nyckelströmställare (NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Lightbulb.svg)                     | Lightbulb.svg                     |   200 |  200 | Glödlampa
+![missing thumb](https://chille.github.io/electricalsymbols/Transformer_1ph.svg)               | Transformer_1ph.svg               |   150 |  200 | Vanlig transformator
 ![missing thumb](https://chille.github.io/electricalsymbols/Transformer_3ph_delta_star.svg)    | Transformer_3ph_delta_star.svg    |   350 |  350 | 3-fas transformator delta/Y-kopplad
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |   250 |  100 | Automatsäkring (Dvärgbrytare)
-![missing thumb](https://chille.github.io/electricalsymbols/Dot.svg)                           | Dot.png                           |   100 |  100 | Punkt för att förbinda ledningar
+![missing thumb](https://chille.github.io/electricalsymbols/Dot.svg)                           | Dot.svg                           |   100 |  100 | Punkt för att förbinda ledningar
 ![missing thumb](https://chille.github.io/electricalsymbols/Not_connected.svg)                 | Not_connected.svg                 |   100 |  100 | Ej ansluten ledare (Kryss)
 ![missing thumb](https://chille.github.io/electricalsymbols/Terminal.svg)                      | Terminal.svg                      |    50 |   50 | Plint / skruvanslutning
 ![missing thumb](https://chille.github.io/electricalsymbols/PE.svg)                            | PE.svg                            |   100 |  100 | Skyddsjord
@@ -39,6 +40,8 @@ Bild                                                                            
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_pnp_nc.svg)    | Proximity_inductive_pnp_nc.svg    |   400 |  300 | Induktiv givare (PNP, NC)
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_npn_no.svg)    | Proximity_inductive_npn_no.svg    |   400 |  300 | Induktiv givare (NPN, NO)
 ![missing thumb](https://chille.github.io/electricalsymbols/Proximity_inductive_npn_no.svg)    | Proximity_inductive_npn_nc.svg    |   400 |  300 | Induktiv givare (NPN, NC)
+![missing thumb](https://chille.github.io/electricalsymbols/Magnetic_brake.svg)                | Magnetic_brake.svg                |   200 |  350 | Magnetbroms
+![missing thumb](https://chille.github.io/electricalsymbols/Solenoid.svg)                      | Solenoid.svg                      |   200 |  400 | Magnetventil
 
 
 
@@ -48,7 +51,6 @@ Lista över symboler som håller på ritas eller är i behov av ändringar
 
 Bild                                                                                           | Filnamn                           | Bredd | Höjd | Beskrivning
 -----------------------------------------------------------------------------------------------|-----------------------------------|-------|------|----------------------------
-![missing thumb](https://chille.github.io/electricalsymbols/Transformer_1ph.svg)               | Transformer_1ph.svg               |   350 |  350 | Rita: Vanlig transformator
 ![missing thumb](https://chille.github.io/electricalsymbols/A4.svg)                            | A4.svg                            |   xxx |  xxx | Rita: Dokumentmall A4
 ![missing thumb](https://chille.github.io/electricalsymbols/Circuit_breaker.svg)               | Circuit_breaker.svg               |       |      | Todo: Skulle behöva snyggas till så de passar att stacka på varandra, eller rita en ny symbol för 2-pol / 3-pol
 
